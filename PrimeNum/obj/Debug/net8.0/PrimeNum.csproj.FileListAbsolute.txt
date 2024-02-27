@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\PrimeNum\PrimeNum\bin\Debug\net8.0\PrimeNum.exe
+C:\Users\USER\source\repos\PrimeNum\PrimeNum\bin\Debug\net8.0\PrimeNum.deps.json
+C:\Users\USER\source\repos\PrimeNum\PrimeNum\bin\Debug\net8.0\PrimeNum.runtimeconfig.json
+C:\Users\USER\source\repos\PrimeNum\PrimeNum\bin\Debug\net8.0\PrimeNum.dll
+C:\Users\USER\source\repos\PrimeNum\PrimeNum\bin\Debug\net8.0\PrimeNum.pdb
+C:\Users\USER\source\repos\PrimeNum\PrimeNum\obj\Debug\net8.0\PrimeNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\PrimeNum\PrimeNum\obj\Debug\net8.0\PrimeNum.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\PrimeNum\PrimeNum\obj\Debug\net8.0\PrimeNum.AssemblyInfo.cs
+C:\Users\USER\source\repos\PrimeNum\PrimeNum\obj\Debug\net8.0\PrimeNum.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\PrimeNum\PrimeNum\obj\Debug\net8.0\PrimeNum.dll
+C:\Users\USER\source\repos\PrimeNum\PrimeNum\obj\Debug\net8.0\refint\PrimeNum.dll
+C:\Users\USER\source\repos\PrimeNum\PrimeNum\obj\Debug\net8.0\PrimeNum.pdb
+C:\Users\USER\source\repos\PrimeNum\PrimeNum\obj\Debug\net8.0\PrimeNum.genruntimeconfig.cache
+C:\Users\USER\source\repos\PrimeNum\PrimeNum\obj\Debug\net8.0\ref\PrimeNum.dll
